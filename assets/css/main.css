@@ -1660,18 +1660,25 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		.skills {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: space-between;
-			margin: auto;
-			width: 80%;
-			/* font-size: 24px; */
-		}
+.skills {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: auto;
+	width: 80%;
+	}
 
-		.skill {
-			width: 30%;
-			text-align: center;
-			margin-bottom: 1.5rem;
+	@media screen and (max-width: 736px) {
+
+		.skills  {
+			display: none;
 		}
+	}
+		
+	.skill {
+		width: 30%;
+		text-align: center;
+		margin-bottom: 1.5rem;
+		font-size: 1.4rem;
+	}
 		
