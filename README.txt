@@ -8,6 +8,8 @@ Domain purchased on 7/20/2020 through namecheap. Username=dalepancho
 Hosted through Netlify on 7/20/2020
 Form submission through formspree ()
 
+tesing on laptop. 
+
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
